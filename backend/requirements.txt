@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+ffmpeg-python
+requests
+psycopg2-binary
+supabase
+python-dotenv
+httpx
